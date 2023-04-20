@@ -1,0 +1,10 @@
+PrintString "Holi."
+PrintString "Que tal."
+Newline
+PrintString "Malardisimo este script."
+Newline
+PrintStringLoop "Esto se repite 4 veces xd." 4
+Newline
+PrintString "Toca una tecla porfa"
+PrintString "Espero hacer una forma de script mejor"
+WaitForKeyPress
